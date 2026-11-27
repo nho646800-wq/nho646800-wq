@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>✦ Business & Human Grounding</strong><br><br>
+      <strong>✦ Business Analytics & Product Strategy</strong><br><br>
       Rooted in stakeholder alignment, project and product management, data analysis, and qualitative requirements solicitation & gathering
     </td>
     <td width="50%" valign="top">
