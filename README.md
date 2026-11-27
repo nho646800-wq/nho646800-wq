@@ -19,11 +19,11 @@
   <tr>
     <td width="50%" valign="top">
       <strong>✦ Business & Human Grounding</strong><br><br>
-      Rooted in stakeholder alignment, project and product coordination, spreadsheet/data work, and thoughtful qualitative inquiry.
+      Rooted in stakeholder alignment, project and product management, data analysis, and qualitative requirements solicitation & gathering
     </td>
     <td width="50%" valign="top">
       <strong>✦ Tech & Real-World Builds</strong><br><br>
-      Digging into how software, data, and AI infrastructure work in practice to create useful tools for real businesses. Recent builds include <strong>FinTin</strong>, bilingual neural-network learning lab, and tourism/market research.
+      Digging into how software, data, and AI infrastructure work in practice to create useful tools for real businesses, serving real humans. Recent builds include FinTin, a bilingual neural-network learning lab, and Vietnamese tourism market research.
     </td>
   </tr>
 </table>
