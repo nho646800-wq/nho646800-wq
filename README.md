@@ -3,7 +3,7 @@
 ### Xin chào · I'm Hoàng Nguyễn
 
 **Business Analytics & Information Management @ Purdue**  
-*Curious about how systems work under the hood, turning them into practical software and augmented workflows for real businesses.*
+*Learning about how systems work under the hood, then turning them into practical software and augmented workflows for real stakeholders.*
 
 <br>
 
